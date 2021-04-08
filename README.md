@@ -11,6 +11,8 @@ Sample data of 100 squirrels from NYC Open Data: Squirrel Census.
 
 ## Make your own -- check out the Hands On Data Viz template and try your own data! See the guidelnes:
 
+https://github.com/HandsOnDataViz/leaflet-map-csv
+
 Hands On Data Viz demo:
 https://handsondataviz.github.io/leaflet-map-csv/ 
 
