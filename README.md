@@ -1,8 +1,8 @@
 This repository is an example for teaching web mapping using Leaflet and CSV data.
 This example project is built with the excellent template files by Hands On Data Viz (see below for a link to their repository) and NYC Open Data.
 
-# leaflet-map-csv
-A simple Leaflet map with point markers from a CSV file.
+# Minimal Squirrel! example leaflet-map-csv
+A simple Leaflet map with point markers from a CSV file, using data from NYC Open Data.
 
 ## this config
 https://racheldaniell.github.io//leaflet-csv-example-minimal-squirrel/
